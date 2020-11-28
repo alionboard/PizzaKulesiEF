@@ -45,6 +45,7 @@ namespace PizzaKulesiEF
         {
             if (chkTeslimEdilenleriGizle.Checked)
                 dgvSiparisler.DataSource = db.Siparisler.SqlQuery("SELECT * FROM Siparisler WHERE TeslimDurumu=0").ToList();
+                //dgvSiparis.DataSource = db.Siparisler.Where(x => x.TeslimDurumu == false).ToList();
             else
                 SiparisleriListele();
         }

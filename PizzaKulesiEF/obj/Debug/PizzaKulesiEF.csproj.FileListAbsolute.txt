@@ -15,3 +15,20 @@ C:\Users\ali\source\repos\PizzaKulesiEF\PizzaKulesiEF\bin\Debug\EntityFramework.
 C:\Users\ali\source\repos\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.csproj.CopyComplete
 C:\Users\ali\source\repos\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.PizzaCesitForm.resources
 C:\Users\ali\source\repos\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.EkstraMalzemeForm.resources
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\bin\Debug\PizzaKulesiEF.exe.config
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\bin\Debug\PizzaKulesiEF.exe
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\bin\Debug\PizzaKulesiEF.pdb
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\bin\Debug\EntityFramework.dll
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\bin\Debug\EntityFramework.xml
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.csprojAssemblyReference.cache
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.EkstraMalzemeForm.resources
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.Form1.resources
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.PizzaCesitForm.resources
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.Properties.Resources.resources
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.csproj.GenerateResource.cache
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.csproj.CoreCompileInputs.cache
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.csproj.CopyComplete
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.exe
+C:\Users\ali\Documents\BA Boost\10.hafta\Ödev\PizzaKulesiEF\PizzaKulesiEF\obj\Debug\PizzaKulesiEF.pdb
